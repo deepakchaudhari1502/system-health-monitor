@@ -1,0 +1,4 @@
+health_report_*.txt
+*.log
+.env
+
